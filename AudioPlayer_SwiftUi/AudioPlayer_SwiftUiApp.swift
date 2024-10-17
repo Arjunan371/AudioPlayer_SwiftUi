@@ -11,7 +11,7 @@ import SwiftUI
 struct AudioPlayer_SwiftUiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GuidedMeditationView()
         }
     }
 }
